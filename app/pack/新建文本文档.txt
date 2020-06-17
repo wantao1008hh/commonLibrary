@@ -1,0 +1,2 @@
+java -jar signapk.jar platform.x509.pem platform.pk8  unicom.apk unicom1.apk
+adb install -t unicom1.apk
